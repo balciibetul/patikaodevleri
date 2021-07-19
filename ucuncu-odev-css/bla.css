@@ -1,0 +1,22 @@
+header, nav {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color:#C84B31;
+}
+h1 {
+    color:#346751;
+}
+body {
+    background-color: #FFF5EB;
+    opacity: 1;
+    font-size: 20px;
+}
+h3 {
+    color:#F29191;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+}
