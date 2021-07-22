@@ -1,0 +1,42 @@
+.section {
+    text-align: center;
+    
+}
+
+.nav {
+    background-color: #423F3E;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    color: gray;
+    margin:10px;
+}
+
+#renk {
+    color: red;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.body {
+    background-color: #E9ECEF;
+}
+
+h1 {
+    color: #DA0037;
+}
+
+h2 {
+    color: #346751;
+    text-align: center;
+}
+
+h3 {
+    color: #907FA4;
+}
